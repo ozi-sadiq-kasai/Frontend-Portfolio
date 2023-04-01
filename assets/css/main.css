@@ -2325,11 +2325,6 @@ input, select, textarea {
 					}
 
 	}
-	/* personl styles */
-		/* .skills-layout{
-			font-size: small;
-			line-height: 2em;
-		} */
 		.image-cars{
 			width: 100%;
 		}
@@ -2355,4 +2350,11 @@ input, select, textarea {
 		#contact{
 			background-color:#0a9396;
 		}
-		
+		.image-fit{
+			width: 70%;
+			border-radius: 50px;
+			margin: 50px 70px 0 0;
+		}
+		.image{
+			border: 1px solid black;
+		}
